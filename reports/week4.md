@@ -24,9 +24,11 @@ n/a
 3. 
 
 #### James:
-1. 
-2. 
-3. 
+1. I plan on working with the rest of the group in the coming week to help identify how we want to represent data in our databases, given what functionality we want to implement in our application.
+2. As part of a team, I was involved in designing the representation of our data. This involved creating a database schema and ER diagram, as well as determining how the underlying concepts would be implemented in Ruby on Rails (RoR). Additionally, I contributed to the requirements page by outlining the backend architecture and design. To ensure effective communication and organization, I also established a dedicated Slack channel for backend development and organized all relevant concepts in our living document, specifically related to the backend. 
+3. This next week I plan on communicating with the rest group responsible for
+   backend development to design and implement the models, controllers, and
+   routes. If successful we ought to be able to begin testing next week.
 
 #### Marlena:
 1. In the coming week I will work on the completion of the database, and we are scheduled to design the auto-scheduling algorithm as well.
