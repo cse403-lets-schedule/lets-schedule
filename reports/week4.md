@@ -29,9 +29,10 @@ n/a
 3. 
 
 #### Marlena:
-1. 
-2. 
-3. 
+1. In the coming week I will work on the completion of the database, and we are scheduled to design the auto-scheduling algorithm as well.
+2. This week I worked with the team to complete our Architecture and Design plan. We now have a much more defined design of how our
+data will look.
+3. Next week I will work with the backend team on completion of database queries, and I will also work on the testing and CI assignment.
 
 #### Thompson:
 1. Next week I will hopefully have everything set up, have the database completed, and start setting up the rest of the backend (e.g. login authentication).
