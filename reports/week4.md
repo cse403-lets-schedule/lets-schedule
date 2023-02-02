@@ -39,6 +39,6 @@ n/a
 3. I will continue working on helping the backend team create the database queries and help set up automated testing.
 
 #### Vasudev:
-1. 
-2. 
-3. 
+1. Next week I will work on the login authentication part of the backend.
+2. The overall skeleton of the project is looking good now, all it needs now is to be filled out with code.
+3. I'll keep trying to get over my anxieties and contribute to the backend delevopment of this application.
