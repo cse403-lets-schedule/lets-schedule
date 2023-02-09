@@ -57,9 +57,9 @@ the rails guide and also on a ruby on rails tutorial.
 3. In the next week I will continue working with the backend crew to implement testing and controllers.
 
 #### Thompson:
-1. 
-2. 
-3. 
+1. I will continue working on helping the backend team create the database queries and help set up automated testing.
+2. I helped generate the components (i.e. the models and controllers) that we will be using for the backend.
+3. I will help the backend team work on implementing the tests and continue working on the controllers and models.
 
 #### Vasudev:
 1. 
