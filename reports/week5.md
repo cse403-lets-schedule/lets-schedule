@@ -28,9 +28,9 @@ n/a
 3. My plan is to continue with Jacob and other members to implement features and the auto-scheduling algorithm in order to be ready for the beta release.
 
 #### Jacob:
-1. 
-2. 
-3. 
+1. This week I would like to get a skeleton of the application started in React, mainly focusing on the calendar layout and how events are displayed on the screen. I will be working with the rest of the frontend team on this.
+2. I made a lot of progress on component designs in React. I created interfaces to edit task and event data as well as building a list of tasks, and learned about various ways to optimize render performance in React.
+3. I would like to finish the calendar week display view, work on pulling data from the REST API, and get a basic auto-scheduler algorithm working.
 
 #### James:
 1. 
