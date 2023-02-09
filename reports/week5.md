@@ -50,9 +50,11 @@ n/a
    code.
 
 #### Marlena:
-1. 
-2. 
-3. 
+1. Next week I will work with the backend team on completion of database queries, and I will also work on the testing and CI assignment.
+2. This week I worked on the testing and CI assignment and had some movement in the backend. I am struggling a litte bit
+with understanding rails, but James helped me understand some stuff in the project and I also spent some time online on
+the rails guide and also on a ruby on rails tutorial.
+3. In the next week I will continue working with the backend crew to implement testing and controllers.
 
 #### Thompson:
 1. 
