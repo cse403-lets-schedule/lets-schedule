@@ -8,6 +8,9 @@ Scheduling apps primarily rely on the user coming up with all of the tasks they 
 - **Backend:**
     - install ruby and neccessary gems
     - set up database by running command line instruction `$ rails db:schema:load`
+- **Frontend:**
+    - Follow instructions on the [React Native website](https://reactnative.dev/docs/environment-setup) to set up the CLI (*not* Expo) for Android development.
+    - Run `npm install` to install dependencies
 
 ## Test Instructions
 - **Backend:** from the project repository, run the command line instruction `$ rails
@@ -17,11 +20,13 @@ Scheduling apps primarily rely on the user coming up with all of the tasks they 
 
   Example: to test only `user_controller` behavior, run `$ rails test
   test/controllers/user_controller`
+- **Frontend:** Run `npm test` in the project repo
 
 ## Run Instructions
 
 - **Backend:** Start a server with the command `$ rails server` and begin sending HTTP
   requests to specified port
+- **Frontend:** Launch an Android emulator or connect a device, then run `npx react-native start` to start the Metro server. Once it is started, type `a` to install the app on the connected Android device.
 
 ## Functional operational use cases
 - **Backend:**
@@ -34,4 +39,10 @@ Scheduling apps primarily rely on the user coming up with all of the tasks they 
     - Create Event
     - Delete Event
     - Get a specific Task
+- **Frontend:**
+    - Creating new events
+    - Modifying events
+    - Creating new tasks
+    - Auto-scheduling tasks on calendar (must press "Done")
+    - Deleting tasks
 
