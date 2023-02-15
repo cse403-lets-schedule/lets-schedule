@@ -5,6 +5,10 @@ Scheduling apps primarily rely on the user coming up with all of the tasks they 
 
 ## Build Instructions
 
+- **Backend:**
+    - install ruby and neccessary gems
+    - set up database by running command line instruction `$rails db:schema:load`
+
 ## Test Instructions
 - Backend: from the project repository, run the command line instruction `rails
   test` to test the entire framework. 
@@ -16,6 +20,18 @@ Scheduling apps primarily rely on the user coming up with all of the tasks they 
 
 ## Run Instructions
 
-- Backend: Start a server with the command `rails server`, then the backend is
-  up and ready to receive commands from the frontend.
+- Backend: Start a server with the command `rails server` and begin sending HTTP
+  requests to specified port
+
+## Functional operational use cases
+- **Backend:**
+    - Create User
+    - Delete User
+    - Get a specific User
+    - Create Task
+    - Delete Task
+    - Get a specific Task
+    - Create Event
+    - Delete Event
+    - Get a specific Task
 
