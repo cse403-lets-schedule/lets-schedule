@@ -7,20 +7,20 @@ Scheduling apps primarily rely on the user coming up with all of the tasks they 
 
 - **Backend:**
     - install ruby and neccessary gems
-    - set up database by running command line instruction `$rails db:schema:load`
+    - set up database by running command line instruction `$ rails db:schema:load`
 
 ## Test Instructions
-- **Backend:** from the project repository, run the command line instruction `rails
+- **Backend:** from the project repository, run the command line instruction `$ rails
   test` to test the entire framework. 
 
   Alternatively, can test a specific test case with an optional route.
 
-  Example: to test only `user_controller` behavior, run `rails test
+  Example: to test only `user_controller` behavior, run `$ rails test
   test/controllers/user_controller`
 
 ## Run Instructions
 
-- **Backend:** Start a server with the command `rails server` and begin sending HTTP
+- **Backend:** Start a server with the command `$ rails server` and begin sending HTTP
   requests to specified port
 
 ## Functional operational use cases
