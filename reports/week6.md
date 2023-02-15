@@ -49,9 +49,9 @@ n/a
 
 
 #### Thompson:
-1. 
-2. 
-3. 
+1. I will help the backend team work on implementing the tests and continue working on the controllers and models.
+2. I wrote some of the slides for the beta release and I helped implement the index method of the UserController.
+3. I will help implement anything else that still has yet to be implemented for the backend.
 
 
 #### Vasudev:
