@@ -38,8 +38,26 @@ n/a
 
 #### James:
 1. 
-2. 
-3. 
+
+This next week I want to finish implementing any code relating to how our
+   data models are related (i.e. foreign keys). I also want to generate tests
+   from the use cases we outlined in our living document, as well as from any
+   other component or design specifications. Then, I want to implement those
+   unit tests. Hopefully can move on to implementing a bit of the controller
+2. I successfully got the foreign key and association relations implemented. I
+   did not however start working on a comprehensive test suite, as some of the
+   details regarding hwo to do that have evaded me. However, I have figured out
+   how to confirm implementation details through the `rails console` command
+   line interface and using a chrome extension that allows for sending HTTP
+   requests. I also implemented SSL encryption. 
+3. It is really important that we implement some sort of user authentication in
+   the next week, as all of the querying for tasks and events depends on an
+   authorized user having access to only their content (even though everything
+   is stored in the one server and database). This task seems difficult to
+   implement so I'm going to put a lot of attention toward getting it done this
+   week. Hopefully we can get some testing implemented at the same time. I am
+   also going to work to make sure everyone in the backend team is aware of
+   everything that I've implemented and that we are all up to speed. 
 
 
 #### Marlena:
