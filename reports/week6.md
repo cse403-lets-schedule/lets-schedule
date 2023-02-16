@@ -31,9 +31,9 @@ n/a
 
 
 #### Jacob:
-1. 
-2. 
-3. 
+1. I would like to finish the calendar week display view, work on pulling data from the REST API, and get a basic auto-scheduler algorithm working.
+2. I was able to produce a working demo of most of the screens of the app, including Edit Events/Tasks screens, the task list, and the calendar view. I also wrote a very basic auto-scheduling algorithm which can schedule a single task around existing events.
+3. This week I want to clean up some of the code I wrote, since I was working very quickly to get the demo working, as well as connect the app's internal model with the REST API so it can work with the backend. There are also some features I didn't get around to implementing, like repeated events and navigating between calendar weeks, that I would like to finish.
 
 
 #### James:
