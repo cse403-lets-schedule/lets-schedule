@@ -43,9 +43,9 @@ n/a
 
 
 #### Marlena:
-1. 
-2. 
-3. 
+1. In the next week I will continue working with the backend crew to implement testing and controllers.
+2. I worked on the slides and structure of the beta release and worker in the controllers of the backend code.
+3. I will help implement more backend features and add on to the tests we have.
 
 
 #### Thompson:
