@@ -14,7 +14,7 @@ We did not encounter any troubles nor getting stuck at any places.
 
 3. 
 - **frontend:** Our plan to implement the REST api call to communicate with the backend, and work toward improving the auto scheduling algorithm.
-- **backend:** 
+- **backend:** Finish foreign keys and implement user authentication.
 
 #### Agenda for project meeting with TA:
 n/a
