@@ -48,9 +48,9 @@ n/a
 3. The setup for the controllers ended up changing, so I'll work to re-configure testing for the controllers.
 
 #### Thompson:
-1. 
-2. 
-3. 
+1. I will help implement anything else that still has yet to be implemented for the backend.
+2. I helped with the Implementation & Documentation and I started writing some tests.
+3. I will continute writing tests and implementing any other necessary features.
 
 
 #### Vasudev:
