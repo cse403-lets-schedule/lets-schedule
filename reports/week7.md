@@ -43,10 +43,9 @@ n/a
 
 
 #### Marlena:
-1. 
-2. 
-3. 
-
+1. I will help implement more backend features and add on to the tests we have.
+2. I worked in the task controller and constraint controller and tests for these controllers.
+3. The setup for the controllers ended up changing, so I'll work to re-configure testing for the controllers.
 
 #### Thompson:
 1. 
