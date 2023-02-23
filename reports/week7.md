@@ -4,17 +4,17 @@
 
 1. 
 - **frontend:** Our plan to implement the REST api call to communicate with the backend, and work toward improving the auto scheduling algorithm.
-- **backend:** 
+- **backend:** Finish foreign keys and implement user authentication.
 
 2. 
 Both groups worked on the Implmementation and Documentation.
 - **frontend**: We worked on implementing the fetch REST api request to communicate with the backend.
-- **backend**: 
+- **backend**: Worked on user authentication and testing
 We did not encounter any troubles nor getting stuck at any places.
 
 3. 
 - **frontend:** Our plan is to work with the backend to test the application and fixing bugs.
-- **backend:** 
+- **backend:** We will implement tests and refine backend code as needed.
 
 #### Agenda for project meeting with TA:
 n/a
