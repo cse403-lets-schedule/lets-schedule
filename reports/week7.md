@@ -38,8 +38,25 @@ n/a
 
 #### James:
 1. 
+ It is really important that we implement some sort of user authentication in
+   the next week, as all of the querying for tasks and events depends on an
+   authorized user having access to only their content (even though everything
+   is stored in the one server and database). This task seems difficult to
+   implement so I'm going to put a lot of attention toward getting it done this
+   week. Hopefully we can get some testing implemented at the same time. I am
+   also going to work to make sure everyone in the backend team is aware of
 2. 
+I did successfully implement the user authentication functionality of the code. 
+In order to do so,  I had to completely regenerate the project so that it fit a
+rails api framework, as well as that of an external tool called devise-api.
+Aftwards I succesfully implemented routes and controllers so that they worked
+under this new system of authenticating users so that they only have access to
+their own data. 
 3. 
+This next week I'm going to work with the rest of the back end folks to finish
+the controller code implementation, as well as make sure things are robustly
+tested. I am also going to collaborate with the front end to make sure that
+interfacing with the front end is possible.  
 
 
 #### Marlena:
