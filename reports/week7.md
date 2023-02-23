@@ -50,7 +50,7 @@ n/a
 #### Thompson:
 1. I will help implement anything else that still has yet to be implemented for the backend.
 2. I helped with the Implementation & Documentation and I started writing some tests.
-3. I will continute writing tests and implementing any other necessary features.
+3. I will continue writing tests and implementing any other necessary features.
 
 
 #### Vasudev:
