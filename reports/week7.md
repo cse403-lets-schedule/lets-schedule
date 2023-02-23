@@ -31,9 +31,9 @@ n/a
 
 
 #### Jacob:
-1. 
-2. 
-3. 
+1. This week I want to clean up some of the code I wrote, since I was working very quickly to get the demo working, as well as connect the app's internal model with the REST API so it can work with the backend. There are also some features I didn't get around to implementing, like repeated events and navigating between calendar weeks, that I would like to finish.
+2. I worked with Cat on adding REST API calls to the app, to synchronize its internal state with the backend. I got the backend running on my laptop so I could test the connection. I also worked on debugging some issues with the UI widget library we're using, and writing user documentation.
+3. This week I would like to work on the auto-scheduling algorithm, together with some members of the backend team.
 
 
 #### James:
