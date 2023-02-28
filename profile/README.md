@@ -26,7 +26,7 @@ Scheduling apps primarily rely on the user coming up with all of the tasks they 
 
 - **Backend:** Start a server with the command `$ rails server` and begin sending HTTP
   requests to specified port
-- **Frontend:** Launch an Android emulator or connect a device, then run `npx react-native start` to start the Metro server. Once it is started, type `a` to install the app on the connected Android device.
+- **Frontend:** Launch an Android emulator or connect a device, then run `npx react-native start` to start the Metro server. Once it is started, type `a` to install the app on the connected Android device. For information on how to use the app, see [the wiki](https://github.com/lets-schedule/lets-schedule-frontend/wiki).
 
 ## Functional operational use cases
 - **Backend:**
