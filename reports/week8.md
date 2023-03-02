@@ -45,9 +45,9 @@ n/a
 3. 
 
 #### Thompson:
-1. 
-2. 
-3. 
+1. I will continue writing tests and implementing any other necessary features.
+2. Due to the backend being nearly complete, I transitioned to helping out the frontend team and I have started setting up the environment to work on the frontend.
+3. I will implement features that have yet to be implemented on the frontend once I finish setting it up.
 
 
 #### Vasudev:
