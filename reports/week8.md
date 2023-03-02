@@ -4,7 +4,7 @@
 
 1. 
 - **frontend:** Our plan is to work with the backend to test the application and fixing bugs.
-- **backend:** We will implement tests and refine backend code as needed.
+- **backend:** We will implement tests and refine backend code as needed. 
 
 2. 
 - **frontend**: We continued working on REST api request to communicate with the backend.
@@ -13,7 +13,10 @@ We did not encounter any troubles nor getting stuck at any places.
 
 3. 
 - **frontend:** Our plan is to finish up the frontend implementation for the final release.
-- **backend:** 
+- **backend:**: Backend is implemented into the cloud. There might be some
+  changes forthcoming in the front end, which requires some minor fixes. Any
+  changes that need to happen will need to be compiled and ran in a docker
+  container on the Amazon EC2 server. 
 
 #### Agenda for project meeting with TA:
 n/a
@@ -36,8 +39,23 @@ n/a
 
 #### James:
 1. 
-2. 
-3. 
+This next week I'm going to work with the rest of the back end folks to finish
+the controller code implementation, as well as make sure things are robustly
+tested. I am also going to collaborate with the front end to make sure that
+interfacing with the front end is possible.  
+2. The majority of the REST API spec has been implemented in the backend,
+   including a robust test suite. I also spent some time configuring Docker and
+   a Amazon EC2 instance so that the backend is now running in the cloud. At our
+   project meeting on Tuesday we decided to switch the focus of the backend
+   folks to the front end. After all the time I spent configuring the backend to
+   run in the cloud, I spent the rest of the week trying to figure out how to
+    configure out front end (which I had not looked at)
+3. This week I want to start by getting user authentication implemented in the
+   front end, so it is connected to our backend in the cloud. Then, I will look
+   at the various features of the REST API and ensure that there is consistency
+   between the front and backend implementations (such as the format which I
+   came up with to filter events by time using comma separated values in a HTTP
+   request query)
 
 #### Marlena:
 1. The setup for the controllers ended up changing, so I'll work to re-configure testing for the controllers.
