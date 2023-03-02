@@ -30,9 +30,9 @@ n/a
 
 
 #### Jacob:
-1. 
-2. 
-3. 
+1. This week I would like to work on the auto-scheduling algorithm, together with some members of the backend team.
+2. I continued working on REST API calls and got the app to communicate almost all changes in state to the backend. I also worked with James on implmenting sign-in / authorization. I didn't get to the auto-scheduling algorithm but as a team we decided to implement it in the backend, rather than the frontend as originally planned.
+3. I will be finalizing the link between frontend and backend, fixing up some unfinished features, and preparing the app for the final release.
 
 #### James:
 1. 
