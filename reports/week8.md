@@ -40,9 +40,9 @@ n/a
 3. 
 
 #### Marlena:
-1. 
-2. 
-3. 
+1. The setup for the controllers ended up changing, so I'll work to re-configure testing for the controllers.
+2. I learned how to do testing for the new setup in the backend.
+3. This week I'll work on the front-end auto-scheduling algorithm.
 
 #### Thompson:
 1. I will continue writing tests and implementing any other necessary features.
